@@ -1,0 +1,37 @@
+body{ 
+    background-color: rgb(216, 148, 248);
+}
+
+.contenedor{ 
+    h4{ 
+        text-align: center;  
+        font-size: 60px; 
+        font-family: Courier;  
+        font-weight: bold;
+        color: rgb(178, 88, 196); 
+    } 
+    .lista{ 
+        text-align: center;
+        font-size: 50px;
+        font-family: courier;
+        font-weight: bold;
+        color: rgb(178, 88, 196);  
+    }
+ } 
+ 
+.letralista{  
+    text-align: center;
+    font-size: 40px; 
+    font-family: courier;
+    font-weight: bold;
+    color: #ffffff;  
+ }
+
+ .link{ 
+     text-align: center;
+     font-size: 30px;
+     font-family: courier;
+     font-weight: bold;
+    }
+
+
